@@ -4,3 +4,4 @@ runs:
   using: "composite"
   steps:
     - run: echo "Hello from my first GitHub Action"
+      shell: bash
